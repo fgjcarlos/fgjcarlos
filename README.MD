@@ -26,6 +26,7 @@ I'm especially interested in roles and projects around:
 
 ## Selected work
 
+- **[MCM](https://github.com/fgjcarlos/mcm)** — Open source control plane for Eclipse Mosquitto: web UI, REST API, realtime observability, user/ACL management and edge-friendly deployment tooling.
 - **[NRCC](https://github.com/fgjcarlos/nrcc)** — Local-first control center for Node-RED with a Go backend and React frontend.
 - **[LGB](https://github.com/fgjcarlos/lgb)** — Bidirectional gateway between Rockwell ControlLogix/CompactLogix PLCs and OPC UA / MQTT Sparkplug B.
 - **[Portfolio](https://github.com/fgjcarlos/fgjcarlos_25)** — Personal portfolio built with Astro.
