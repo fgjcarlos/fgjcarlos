@@ -1,25 +1,50 @@
-<h1 align="center">Hi 👋, I'm Carlos Fontán</h1>
-<h3 align="center">A passionate web developer</h3>
+# Hi, I'm Carlos Fontán 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgjcarlos&label=Profile%20views&color=0e75b6&style=flat" alt="fgjcarlos" /> </p>
+**Industrial Software Developer focused on IT/OT integration, Industrial IoT and automation.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgjcarlos" alt="fgjcarlos" /></a> </p>
+I build software that connects physical systems with modern web applications: industrial control, real-time data, edge deployments, APIs, dashboards and integrations between machines, sensors and business systems.
 
-- 🌱 I’m currently learning **Rust and Go**
+My background sits between **automation/robotics** and **full-stack development**, which helps me understand both the factory floor and the software architecture needed to make it observable, reliable and useful.
 
-- 👨‍💻 All of my projects are available at [fgjcarlos.com](fgjcarlos.com)
+## What I work on
 
-- 📫 How to reach me **fgjcarlos@gmail.com**
+- **Industrial software & IT/OT integration** — connecting PLCs, machines, sensors and databases with web platforms and operational tools.
+- **Industrial IoT & real-time systems** — MQTT, OPC-UA, WebSockets, Node-RED, telemetry, dashboards and event-driven workflows.
+- **Full-stack applications** — React/Next.js, Node.js/Express, APIs, PostgreSQL/MongoDB and user interfaces for industrial contexts.
+- **Edge & field deployments** — Docker/Linux/ARM, ESP32, gateways, local-first tools and systems designed to run close to the process.
+- **Vision & automation** — camera-based inspection, OpenCV-style workflows, robotics/cobot experience and automation problem solving.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/fgjcarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fgjcarlos" height="30" width="40" /></a>
-</p>
+## Current focus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+I'm especially interested in roles and projects around:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fgjcarlos&show_icons=true&locale=en&layout=compact" alt="fgjcarlos" /></p>
+- Automation / OT-IT Software Architecture
+- Industrial IoT platforms and gateways
+- Edge applications for factories and field operations
+- Real-time dashboards and operational tooling
+- Practical AI/LLM integrations for industrial workflows
 
+## Selected work
 
+- **[NRCC](https://github.com/fgjcarlos/nrcc)** — Local-first control center for Node-RED with a Go backend and React frontend.
+- **[LGB](https://github.com/fgjcarlos/lgb)** — Bidirectional gateway between Rockwell ControlLogix/CompactLogix PLCs and OPC UA / MQTT Sparkplug B.
+- **[Portfolio](https://github.com/fgjcarlos/fgjcarlos_25)** — Personal portfolio built with Astro.
 
+## Tech stack
+
+- **Industrial / OT:** Node-RED · OPC-UA · MQTT · Sparkplug B · PLCs · Codesys · Grafana · ESP32 · vision cameras
+- **Backend:** Node.js · Express · Go · Python · REST APIs · WebSockets
+- **Frontend:** React · Next.js · Astro · TypeScript · JavaScript · HTML/CSS
+- **Data:** PostgreSQL · MongoDB · time-series/telemetry data
+- **DevOps / Edge:** Docker · Linux · ARM · Git · self-hosted services
+
+## Find me
+
+- 🌐 Portfolio: [fgjcarlos.com](https://fgjcarlos.com)
+- 💼 LinkedIn: [linkedin.com/in/fgjcarlos](https://www.linkedin.com/in/fgjcarlos)
+- 📫 Email: [fgjcarlos@gmail.com](mailto:fgjcarlos@gmail.com)
+- 📍 Baiona, Galicia, Spain
+
+---
+
+> I like building useful bridges between machines, data and people.
